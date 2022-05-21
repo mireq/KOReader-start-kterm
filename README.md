@@ -1,6 +1,8 @@
 Start Kterm from KOReader
 =========================
 
+This plugin is replaced by [KOReader-kindle-start-x-app](https://github.com/mireq/KOReader-kindle-start-x-app)
+
 This plugin allows to start Kterm from KOReader
 
 Install
